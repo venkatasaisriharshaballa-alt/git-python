@@ -1,4 +1,2 @@
-x = 10
-y = 20
-z = x + y
-print("The sum of x and y is:", z)
+total = sum(range(1, 101))
+print(total)
